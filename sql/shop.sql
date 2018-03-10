@@ -1,9 +1,8 @@
-/*
+﻿/*
 SQLyog 企业版 - MySQL GUI v8.14 
 MySQL - 5.0.45-community-nt : Database - shop
 *********************************************************************
-*/
-
+*/
 /*!40101 SET NAMES utf8 */;
 
 /*!40101 SET SQL_MODE=''*/;
@@ -207,6 +206,7 @@ DELIMITER $$
 /*!50003 CREATE DEFINER=`root`@`localhost` PROCEDURE `sp_version`()
 select VERSION() */$$
 DELIMITER ;
+
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
